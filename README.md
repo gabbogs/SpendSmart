@@ -49,6 +49,10 @@ lib/
 
 The app connects to its own Firebase project, so no setup is needed to try it. To use your own Firebase project instead, run `flutterfire configure`.
 
+## Tests
+
+Run `flutter test` for unit tests covering the transaction model (Firestore mapping) and the default categories.
+
 ## Security
 
 Firestore security rules limit every user to their own data:
