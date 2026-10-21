@@ -67,7 +67,9 @@ The Firebase keys in `firebase_options.dart` and `google-services.json` are clie
 
 ## Background
 
-SpendSmart was a team project with eight members. I was the team leader and built the app myself.
+SpendSmart is a mobile financial management app built to help students and young professionals manage their daily finances more efficiently and conveniently. Users can record expenses, monitor their spending habits, set monthly budgets, manage savings goals, and see financial summaries in real time.
+
+The app started as our business plan for an entrepreneurship course and also served as our mobile programming project for an IT elective, combining the two into one project. I led a group of eight members and was the sole developer of the app.
 
 ## Author
 
