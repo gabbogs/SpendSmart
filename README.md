@@ -73,4 +73,4 @@ The app started as our business plan for an entrepreneurship course and also ser
 
 ## Author
 
-**Gabriel C. Bognot**: [GitHub](https://github.com/gabbogs) · [LinkedIn](https://www.linkedin.com/in/gabbogs/)
+**Gabriel Bognot**: [GitHub](https://github.com/gabbogs) · [LinkedIn](https://www.linkedin.com/in/gabbogs/)
